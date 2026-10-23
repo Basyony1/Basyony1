@@ -6,7 +6,7 @@ I'm interested in robot control, embedded systems and applying AI to real machin
 ### 🎓 Education
 - **ITMO University**, Saint Petersburg, Russia (2024 – present)
   B.Sc. in Mechatronics and Robotics, *Robotics & Artificial Intelligence* program
-- **STEM High School Gharbiya**, Egypt (graduated 2022)
+- **STEM Gharbiya High School **, Egypt (graduated 2022)
   GPA: 4.0 / 4.0
 
 ### 🔧 Currently working on
