@@ -37,11 +37,6 @@ Computer Vision · Machine Learning · Applied AI · ROS · Microcontroller Prog
 Linear Control Systems · Dynamic Systems Modeling · Optimization Methods · Modeling & Prototyping ·
 Algorithms & Data Structures · Probability & Statistics · Theoretical Mechanics
 
-### 🏆 Highlights
-- 🥇 1st place (Marketing), finalist (Mathematics, Biology) – Phystech.International Olympiad, MIPT 2021
-- 🥈 2nd place nationwide – SIC Competition, *Free Water Energy* project 2023
-- 🤖 Participant – Extreme Robotics conference - 2024
-- 🎤 Speaker – ASRTU China–Russia conference - 2025
 
 ### 🌍 Languages
 Arabic (native) · English (fluent) · Russian (B1+) · German (basic)
