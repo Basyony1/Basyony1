@@ -3,12 +3,6 @@
 3rd-year Bachelor's student in **Mechatronics and Robotics** (*Robotics & Artificial Intelligence* program) at **ITMO University**, Saint Petersburg.
 I'm interested in robot control, embedded systems and applying AI to real machines.
 
-### 🎓 Education
-- **ITMO University**, Saint Petersburg, Russia (2024 – present)
-  B.Sc. in Mechatronics and Robotics, *Robotics & Artificial Intelligence* program
-- **STEM Gharbiya High School**, Egypt (graduated 2022)
-  GPA: 4.0 / 4.0
-
 ### 🔧 Currently working on
 - Simulating and controlling drones with ROS 2 (Python) at the Geoscan × ITMO Youth Design Bureau
 - ROS 2 (Jazzy): nodes, topics and packages
